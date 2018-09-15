@@ -1,0 +1,60 @@
+body{
+	padding-top: 1%;
+}
+.fondo-a{
+	background: url(images/Sports.png);
+}
+.fondo-b{
+	background: url(images/circles-light.png);
+}
+.fondo-c{
+	background: url(images/bright_squares.png);
+}
+.banner-width{
+	max-width: 100%;
+	width: 100%;
+}
+.seccion-margen{
+	margin-top: 2%;
+}
+.seccion-padding{
+	padding-top: 3%;
+}
+.seccion-thumbnail{
+	padding: 3%;
+	text-align: justify;
+}
+.seccion-titular{
+	padding: 2%;
+	text-align: center;
+	margin-bottom: 0%;
+}
+.jombotron-img{
+    width: 60%;
+    height: auto;
+    margin-bottom: 5%;
+}
+div.jumbotron.jumbotron-fluid{
+	margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+.fond{
+	font-family: 'Raleway', sans-serif;
+}
+.color-font{
+	color: white;
+}
+a.navbar-brand{
+	color: white;
+}
+a.nav-link{
+	color: white;
+}
+.type-list{
+	list-style-type: square;
+}
+.padding-nosotros{
+	padding-bottom: 5%;
+    padding-top: 7%;
+}
+}
