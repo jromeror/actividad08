@@ -10,6 +10,9 @@ body{
 .fondo-c{
 	background: url(images/bright_squares.png);
 }
+.fondo-d{
+	background: url(images/tic-tac-toe.png);
+}
 .banner-width{
 	max-width: 100%;
 	width: 100%;
@@ -57,4 +60,9 @@ a.nav-link{
 	padding-bottom: 5%;
     padding-top: 7%;
 }
+.bottom-do{
+    margin-left: 2%;
+}
+.bottom-no{
+	padding-bottom: 3%;
 }
